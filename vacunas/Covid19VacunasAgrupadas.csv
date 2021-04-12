@@ -1,0 +1,73 @@
+"jurisdiccion_codigo_indec","jurisdiccion_nombre","vacuna_nombre",primera_dosis_cantidad,segunda_dosis_cantidad
+"06","Buenos Aires","COVISHIELD ChAdOx1nCoV COVID 19",184215,0
+"06","Buenos Aires","Sinopharm Vacuna SARSCOV 2 inactivada",264832,0
+"06","Buenos Aires","Sputnik V COVID19 Instituto Gamaleya",311217,167146
+"02","CABA","COVISHIELD ChAdOx1nCoV COVID 19",54308,237
+"02","CABA","Sinopharm Vacuna SARSCOV 2 inactivada",24022,17
+"02","CABA","Sputnik V COVID19 Instituto Gamaleya",110903,45939
+"10","Catamarca","COVISHIELD ChAdOx1nCoV COVID 19",3642,0
+"10","Catamarca","Sinopharm Vacuna SARSCOV 2 inactivada",6406,0
+"10","Catamarca","Sputnik V COVID19 Instituto Gamaleya",8689,4305
+"22","Chaco","COVISHIELD ChAdOx1nCoV COVID 19",13068,13
+"22","Chaco","Sinopharm Vacuna SARSCOV 2 inactivada",7121,3
+"22","Chaco","Sputnik V COVID19 Instituto Gamaleya",21344,10105
+"26","Chubut","COVISHIELD ChAdOx1nCoV COVID 19",5603,1
+"26","Chubut","Sinopharm Vacuna SARSCOV 2 inactivada",3203,0
+"26","Chubut","Sputnik V COVID19 Instituto Gamaleya",12351,4216
+"18","Corrientes","COVISHIELD ChAdOx1nCoV COVID 19",11250,2
+"18","Corrientes","Sinopharm Vacuna SARSCOV 2 inactivada",3860,2
+"18","Corrientes","Sputnik V COVID19 Instituto Gamaleya",20001,8203
+"14","Córdoba","COVISHIELD ChAdOx1nCoV COVID 19",41032,0
+"14","Córdoba","Sinopharm Vacuna SARSCOV 2 inactivada",45937,0
+"14","Córdoba","Sputnik V COVID19 Instituto Gamaleya",79706,31339
+"30","Entre Ríos","COVISHIELD ChAdOx1nCoV COVID 19",13780,2
+"30","Entre Ríos","Sinopharm Vacuna SARSCOV 2 inactivada",2785,0
+"30","Entre Ríos","Sputnik V COVID19 Instituto Gamaleya",25587,11633
+"34","Formosa","COVISHIELD ChAdOx1nCoV COVID 19",5301,0
+"34","Formosa","Sinopharm Vacuna SARSCOV 2 inactivada",9711,0
+"34","Formosa","Sputnik V COVID19 Instituto Gamaleya",8182,3606
+"38","Jujuy","COVISHIELD ChAdOx1nCoV COVID 19",8576,1
+"38","Jujuy","Sinopharm Vacuna SARSCOV 2 inactivada",1447,1
+"38","Jujuy","Sputnik V COVID19 Instituto Gamaleya",15089,9319
+"42","La Pampa","COVISHIELD ChAdOx1nCoV COVID 19",4344,0
+"42","La Pampa","Sinopharm Vacuna SARSCOV 2 inactivada",6716,0
+"42","La Pampa","Sputnik V COVID19 Instituto Gamaleya",8897,5940
+"46","La Rioja","COVISHIELD ChAdOx1nCoV COVID 19",4840,0
+"46","La Rioja","Sinopharm Vacuna SARSCOV 2 inactivada",3033,0
+"46","La Rioja","Sputnik V COVID19 Instituto Gamaleya",9685,4436
+"50","Mendoza","COVISHIELD ChAdOx1nCoV COVID 19",13835,5
+"50","Mendoza","Sinopharm Vacuna SARSCOV 2 inactivada",10783,8
+"50","Mendoza","Sputnik V COVID19 Instituto Gamaleya",42156,13201
+"54","Misiones","COVISHIELD ChAdOx1nCoV COVID 19",13095,24
+"54","Misiones","Sinopharm Vacuna SARSCOV 2 inactivada",11442,14
+"54","Misiones","Sputnik V COVID19 Instituto Gamaleya",14477,6055
+"58","Neuquén","COVISHIELD ChAdOx1nCoV COVID 19",5830,0
+"58","Neuquén","Sinopharm Vacuna SARSCOV 2 inactivada",8314,0
+"58","Neuquén","Sputnik V COVID19 Instituto Gamaleya",15480,4971
+"62","Río Negro","COVISHIELD ChAdOx1nCoV COVID 19",8469,0
+"62","Río Negro","Sinopharm Vacuna SARSCOV 2 inactivada",5151,0
+"62","Río Negro","Sputnik V COVID19 Instituto Gamaleya",12696,6511
+"66","Salta","COVISHIELD ChAdOx1nCoV COVID 19",16606,0
+"66","Salta","Sinopharm Vacuna SARSCOV 2 inactivada",11459,1
+"66","Salta","Sputnik V COVID19 Instituto Gamaleya",26794,12902
+"70","San Juan","COVISHIELD ChAdOx1nCoV COVID 19",7789,0
+"70","San Juan","Sinopharm Vacuna SARSCOV 2 inactivada",5280,0
+"70","San Juan","Sputnik V COVID19 Instituto Gamaleya",13207,5896
+"74","San Luis","COVISHIELD ChAdOx1nCoV COVID 19",6460,0
+"74","San Luis","Sinopharm Vacuna SARSCOV 2 inactivada",8488,0
+"74","San Luis","Sputnik V COVID19 Instituto Gamaleya",12888,5117
+"78","Santa Cruz","COVISHIELD ChAdOx1nCoV COVID 19",3605,1
+"78","Santa Cruz","Sinopharm Vacuna SARSCOV 2 inactivada",4996,3
+"78","Santa Cruz","Sputnik V COVID19 Instituto Gamaleya",8881,4530
+"82","Santa Fe","COVISHIELD ChAdOx1nCoV COVID 19",27201,15
+"82","Santa Fe","Sinopharm Vacuna SARSCOV 2 inactivada",30384,17
+"82","Santa Fe","Sputnik V COVID19 Instituto Gamaleya",65878,30568
+"86","Santiago del Estero","COVISHIELD ChAdOx1nCoV COVID 19",9809,1
+"86","Santiago del Estero","Sinopharm Vacuna SARSCOV 2 inactivada",8147,0
+"86","Santiago del Estero","Sputnik V COVID19 Instituto Gamaleya",15929,6004
+"94","Tierra del Fuego","COVISHIELD ChAdOx1nCoV COVID 19",1542,0
+"94","Tierra del Fuego","Sinopharm Vacuna SARSCOV 2 inactivada",1215,0
+"94","Tierra del Fuego","Sputnik V COVID19 Instituto Gamaleya",3650,2107
+"90","Tucumán","COVISHIELD ChAdOx1nCoV COVID 19",18830,0
+"90","Tucumán","Sinopharm Vacuna SARSCOV 2 inactivada",9496,0
+"90","Tucumán","Sputnik V COVID19 Instituto Gamaleya",35168,14208
