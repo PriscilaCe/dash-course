@@ -27,4 +27,4 @@ Documentación oficial de Dash: [Click aquí](https://dash.plotly.com/)
 
 Instagram: [Click aquí](https://www.instagram.com/nerddatos_/)
 
-![Dashboard terminado](Reporte.png "Dashboard finalizado")
+![Dashboard terminado](Reporte.png "Dashboard finalizado").
